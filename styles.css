@@ -1,0 +1,44 @@
+body {
+    background-color: lightgray;
+}
+
+.navbar-brand{
+    font-family: 'Oleo Script', cursive;
+    font-size: 26px; 
+}
+ .navbar-light .navbar-brand {
+     color: #767675;
+ }
+ 
+
+.post-image {
+    height:250px; max-width: 100%; background-position: center;
+}
+
+
+.fab {
+    color: #767675 ;
+}
+
+.alert, .likes {
+    color: darkgray;
+}
+
+.date {
+    color:gray;
+}
+
+#camera, #lightbulb {
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+.col-4 {
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 2px;
+    border: 1px solid white;
+}
+.nav-link, .nav-link-active {
+    color:gray;
+}
